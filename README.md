@@ -4,9 +4,9 @@ Source files for Efficient Implementation of Least Squares Sine Fitting Algorith
 
 - LS_3PF  - Evaluates 3-parameter LS fitting. Elements in matrix D0<sup>T</sup> * D0 are calculated directly based on the closed form of sums
 
-- LS_3PF_offset -  Evaluates 3-parameter LS fitting with time offsetting. Elements in matrix D0_T * D0 are calculated directly based on the closed form of sums
+- LS_3PF_offset -  Evaluates 3-parameter LS fitting with time offsetting. Elements in matrix D0<sup>T</sup> * D0 are calculated directly based on the closed form of sums
 
-- LS_4PF_offset   Evaluates 4-parameter LS fitting with time offsetting. Elements in matrix D0_T * D0 are calculated directly based on the closed form of sums
+- LS_4PF_offset   Evaluates 4-parameter LS fitting with time offsetting. Elements in matrix D0<sup>T</sup> * D0 are calculated directly based on the closed form of sums
 
 - monte_carlo_4PF - Monte Carlo simulation for the four-parameter fitting problem
 
